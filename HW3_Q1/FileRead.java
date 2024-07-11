@@ -1,7 +1,7 @@
 //-----------------------------------------------------
 // Title: FileRead
 // Author: İsmail Efe Ataş
-// ID: 10750010914
+// ID: 
 // Section: 1
 // Assignment: 3
 // Description: Reads lines from a file whose path is given.
