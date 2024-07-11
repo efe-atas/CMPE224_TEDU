@@ -1,7 +1,7 @@
 //-----------------------------------------------------
 // Title: HW3_Q2_solution
 // Author: İsmail Efe Ataş
-// ID: 10750010914
+// ID: 
 // Section: 1
 // Assignment: 3
 // Description: Main method to execute the program.
