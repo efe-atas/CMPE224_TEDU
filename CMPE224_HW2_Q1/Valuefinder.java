@@ -1,7 +1,7 @@
 //----------------------------------------------------
 // Title: Valuefinder Class
 // Author: İsmail Efe Ataş
-// ID: 10750010914
+// ID: 
 // Section: 1
 // Assignment: Homework2_Question_1
 // Description:  Class for processing values from file lines
