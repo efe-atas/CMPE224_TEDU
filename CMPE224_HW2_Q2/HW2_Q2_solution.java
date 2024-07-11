@@ -1,7 +1,7 @@
 //-----------------------------------------------------
 // Title: HW2_Q2_solution Class
 // Author: İsmail Efe Ataş
-// ID: 10750010914
+// ID:
 // Section: 1
 // Assignment: Homework2_Question_2
 // Description: This class is the main entry point for the program.
