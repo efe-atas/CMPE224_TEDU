@@ -1,7 +1,7 @@
 //-----------------------------------------------------
 // Title: FileRead Class
 // Author: İsmail Efe Ataş
-// ID: 10750010914
+// ID: 
 // Section: 1
 // Assignment: Homework2_Question_2
 // Description:  Class for reading lines from a file.
